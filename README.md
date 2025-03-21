@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Henrique.  
 
 ## 🚀 Sobre mim
-Tenho experiência em **gestão** como **Squad Leader**, em **gestão de produto** como **Product Owner** e também em **análise e desenvolvimento de sistemas**, com foco em **suporte e sustentação**. Tenho experiência prática com **MySQL, Python e PHP**, enquanto estudo **JavaScript, HTML, CSS, Java e Git**.
+Tenho experiência em **gestão** como **Squad Leader**, em **gestão de produto** como **Product Owner** e também em **análise e desenvolvimento de sistemas**, com foco em **suporte e sustentação**. Tenho experiência prática com **MySQL, Python e PHP**, e atualmente estudo **JavaScript, HTML, CSS, Java e Git**.
 
 ## 🔧 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
