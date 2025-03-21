@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá👋,+Meu+nome+é+Henrique.;Bem-vindo+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá👋,+Meu+nome+é+Henrique.;Bem-vindo+ao+meu+repositório!)](https://git.io/typing-svg)
 
 ## 🚀 Sobre mim
 Tenho experiência em **gestão** como **Squad Leader**, em **gestão de produto** como **Product Owner** e também em **análise e desenvolvimento de sistemas**, com foco em **suporte e sustentação**. Tenho experiência prática com **MySQL, Python e PHP**, e atualmente estudo **JavaScript, HTML, CSS, Java e Git**.
